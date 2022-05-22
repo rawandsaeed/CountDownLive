@@ -6,7 +6,7 @@ An Android library written in Kotlin that wraps the CountDownTimer in [LiveData]
 
 ## Dependecy
 
-Just copy the TimerLive class into your project. This is all you really need.
+Just copy the TimerLive class into your project.
 
 
 
