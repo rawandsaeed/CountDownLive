@@ -1,0 +1,1 @@
+/Users/eosios/Developer/KotlinApps/RawandLibs/CountDownLib/buildSrc/build/classes/kotlin/main/Dependencies.class:/Users/eosios/Developer/KotlinApps/RawandLibs/CountDownLib/buildSrc/build/classes/kotlin/main/Versions.class
